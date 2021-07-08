@@ -1,1 +1,1 @@
-# Week2-sql-task
+# Week 2 SQL Tasks
